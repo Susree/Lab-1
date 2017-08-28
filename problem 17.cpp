@@ -4,7 +4,7 @@ using namespace std;
 int main() 
 {
 float a,b,c,d,e,t,m,p;
-  cout <<enter 5 numbers>>
+  cout <<enter 5 numbers>>;
 cin >>a;
 cin >>b;
 cin >>c;
